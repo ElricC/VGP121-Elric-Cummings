@@ -1,0 +1,1889 @@
+fileFormatVersion: 2
+guid: a24cc44bb8493884e9b75ab37b1cad7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5868439182805425902
+    second: UndeathKnightSpriteSheet_0
+  - first:
+      213: 9081685308425232216
+    second: UndeathKnightSpriteSheet_1
+  - first:
+      213: 2666484503454561813
+    second: UndeathKnightSpriteSheet_2
+  - first:
+      213: -5590615759378097066
+    second: UndeathKnightSpriteSheet_3
+  - first:
+      213: 3434821957192154438
+    second: UndeathKnightSpriteSheet_4
+  - first:
+      213: 8067329104473451604
+    second: UndeathKnightSpriteSheet_5
+  - first:
+      213: 4377222059263609408
+    second: UndeathKnightSpriteSheet_6
+  - first:
+      213: -3897621108854114004
+    second: UndeathKnightSpriteSheet_7
+  - first:
+      213: 6828542364355981205
+    second: UndeathKnightSpriteSheet_8
+  - first:
+      213: 1727011289764146699
+    second: UndeathKnightSpriteSheet_9
+  - first:
+      213: 2867610777421822967
+    second: UndeathKnightSpriteSheet_10
+  - first:
+      213: 936930132650713737
+    second: UndeathKnightSpriteSheet_11
+  - first:
+      213: 8880154727356887541
+    second: UndeathKnightSpriteSheet_12
+  - first:
+      213: -2518674159965145282
+    second: UndeathKnightSpriteSheet_13
+  - first:
+      213: 6613543687537932303
+    second: UndeathKnightSpriteSheet_14
+  - first:
+      213: 7960527973234682018
+    second: UndeathKnightSpriteSheet_15
+  - first:
+      213: 45850556304171037
+    second: UndeathKnightSpriteSheet_16
+  - first:
+      213: -1710871969664984830
+    second: UndeathKnightSpriteSheet_17
+  - first:
+      213: -6610355788731926079
+    second: UndeathKnightSpriteSheet_18
+  - first:
+      213: 1012159913504285893
+    second: UndeathKnightSpriteSheet_19
+  - first:
+      213: -4860024018131161599
+    second: UndeathKnightSpriteSheet_20
+  - first:
+      213: -4589369126406934317
+    second: UndeathKnightSpriteSheet_21
+  - first:
+      213: 5397942335321761288
+    second: UndeathKnightSpriteSheet_22
+  - first:
+      213: -2717570456109110910
+    second: UndeathKnightSpriteSheet_23
+  - first:
+      213: 4248907910660962479
+    second: UndeathKnightSpriteSheet_24
+  - first:
+      213: 5974708267407031887
+    second: UndeathKnightSpriteSheet_25
+  - first:
+      213: -3928140357957509605
+    second: UndeathKnightSpriteSheet_26
+  - first:
+      213: -364671272092764073
+    second: UndeathKnightSpriteSheet_27
+  - first:
+      213: -5376441483510130769
+    second: UndeathKnightSpriteSheet_28
+  - first:
+      213: -5650766219629527155
+    second: UndeathKnightSpriteSheet_29
+  - first:
+      213: 2972275039937229979
+    second: UndeathKnightSpriteSheet_30
+  - first:
+      213: 3312359709922533114
+    second: UndeathKnightSpriteSheet_31
+  - first:
+      213: 5849892352766357830
+    second: UndeathKnightSpriteSheet_32
+  - first:
+      213: 6898074803537242694
+    second: UndeathKnightSpriteSheet_33
+  - first:
+      213: 1648332413545934302
+    second: UndeathKnightSpriteSheet_34
+  - first:
+      213: 2773249839270464224
+    second: UndeathKnightSpriteSheet_35
+  - first:
+      213: -8325752012693158970
+    second: UndeathKnightSpriteSheet_36
+  - first:
+      213: -1415073452978101968
+    second: UndeathKnightSpriteSheet_37
+  - first:
+      213: -4097941657147492490
+    second: UndeathKnightSpriteSheet_38
+  - first:
+      213: 3697339515323192302
+    second: UndeathKnightSpriteSheet_39
+  - first:
+      213: 6395636554168417572
+    second: UndeathKnightSpriteSheet_40
+  - first:
+      213: -8019436111406902373
+    second: UndeathKnightSpriteSheet_41
+  - first:
+      213: 3791683519787603892
+    second: UndeathKnightSpriteSheet_42
+  - first:
+      213: -8448313547694720592
+    second: UndeathKnightSpriteSheet_43
+  - first:
+      213: -7298003138597943628
+    second: UndeathKnightSpriteSheet_44
+  - first:
+      213: 564050560200888884
+    second: UndeathKnightSpriteSheet_45
+  - first:
+      213: 8021665343807166940
+    second: UndeathKnightSpriteSheet_46
+  - first:
+      213: -1776844944621025096
+    second: UndeathKnightSpriteSheet_47
+  - first:
+      213: -8648485016513212798
+    second: UndeathKnightSpriteSheet_48
+  - first:
+      213: 7076205343435677663
+    second: UndeathKnightSpriteSheet_49
+  - first:
+      213: -446435224885757614
+    second: UndeathKnightSpriteSheet_50
+  - first:
+      213: 2940443903955852282
+    second: UndeathKnightSpriteSheet_51
+  - first:
+      213: 7468560604056820036
+    second: UndeathKnightSpriteSheet_52
+  - first:
+      213: -7349245223235868120
+    second: UndeathKnightSpriteSheet_53
+  - first:
+      213: -6338491070611804006
+    second: UndeathKnightSpriteSheet_54
+  - first:
+      213: 6707766057032241099
+    second: UndeathKnightSpriteSheet_55
+  - first:
+      213: 3406587199752758134
+    second: UndeathKnightSpriteSheet_56
+  - first:
+      213: -1210439119391424094
+    second: UndeathKnightSpriteSheet_57
+  - first:
+      213: -2260189083264024975
+    second: UndeathKnightSpriteSheet_58
+  - first:
+      213: -9039742947982790454
+    second: UndeathKnightSpriteSheet_59
+  - first:
+      213: -5541553759278510283
+    second: UndeathKnightSpriteSheet_60
+  - first:
+      213: 5146479655597234387
+    second: UndeathKnightSpriteSheet_61
+  - first:
+      213: 2531578384053584003
+    second: UndeathKnightSpriteSheet_62
+  - first:
+      213: 568728345225113960
+    second: UndeathKnightSpriteSheet_63
+  - first:
+      213: -6181169048407857157
+    second: UndeathKnightSpriteSheet_64
+  - first:
+      213: -4004118212624108614
+    second: UndeathKnightSpriteSheet_65
+  - first:
+      213: 3456021958855637298
+    second: UndeathKnightSpriteSheet_66
+  - first:
+      213: -3978304606533786748
+    second: UndeathKnightSpriteSheet_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 743
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeed91d2852e07150800000000000000
+      internalID: 5868439182805425902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 743
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fd192dba0a80e70800000000000000
+      internalID: 9081685308425232216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 743
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5163e7b3781410520800000000000000
+      internalID: 2666484503454561813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 743
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c519256942a62b0800000000000000
+      internalID: -5590615759378097066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 743
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d76212f50faaf20800000000000000
+      internalID: 3434821957192154438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 743
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c6f46f319e4ff60800000000000000
+      internalID: 8067329104473451604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 643
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a496975440fbc30800000000000000
+      internalID: 4377222059263609408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 643
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29bfa1804ed8e9c0800000000000000
+      internalID: -3897621108854114004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 643
+        width: 32
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fe429e91bd3ce50800000000000000
+      internalID: 6828542364355981205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 642
+        width: 33
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e2b713e9397f710800000000000000
+      internalID: 1727011289764146699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 642
+        width: 33
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb3f4e0fcccbc720800000000000000
+      internalID: 2867610777421822967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 642
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9826108ddf4a00d00800000000000000
+      internalID: 936930132650713737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 642
+        width: 30
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1fc9aeca5ac3b70800000000000000
+      internalID: 8880154727356887541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 643
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37725e223fdb0dd0800000000000000
+      internalID: -2518674159965145282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 643
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b93a91f608cb50800000000000000
+      internalID: 6613543687537932303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 543
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8a635d30a797e60800000000000000
+      internalID: 7960527973234682018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 543
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10a34986d4e2a000800000000000000
+      internalID: 45850556304171037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 542
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20912f71203c148e0800000000000000
+      internalID: -1710871969664984830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 539
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9bfadee6c4344a0800000000000000
+      internalID: -6610355788731926079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 543
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c42054241aeb0e00800000000000000
+      internalID: 1012159913504285893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 538
+        width: 18
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eec6fa7e9bd8cb0800000000000000
+      internalID: -4860024018131161599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 537
+        width: 44
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0be5558194f40c0800000000000000
+      internalID: -4589369126406934317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 543
+        width: 42
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80665e654f759ea40800000000000000
+      internalID: 5397942335321761288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 543
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28925878110494ad0800000000000000
+      internalID: -2717570456109110910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 543
+        width: 29
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa83b4aab3727fa30800000000000000
+      internalID: 4248907910660962479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 535
+        width: 13
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eb26b838d6ae250800000000000000
+      internalID: 5974708267407031887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 531
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e111818217c79c0800000000000000
+      internalID: -3928140357957509605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 531
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758fe1ff86d60faf0800000000000000
+      internalID: -364671272092764073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 534
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa754b3d4fa0365b0800000000000000
+      internalID: -5376441483510130769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 443
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f7432ff027491b0800000000000000
+      internalID: -5650766219629527155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 443
+        width: 30
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94f73aa664af3920800000000000000
+      internalID: 2972275039937229979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 443
+        width: 30
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe9f364b9dd7fd20800000000000000
+      internalID: 3312359709922533114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 443
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641b9ecc91efe2150800000000000000
+      internalID: 5849892352766357830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 443
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ae8ea7c72eabf50800000000000000
+      internalID: 6898074803537242694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 463
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddea2dc89d00e610800000000000000
+      internalID: 1648332413545934302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 459
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea002719009c7620800000000000000
+      internalID: 2773249839270464224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 455
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c34e6bf7acf47c80800000000000000
+      internalID: -8325752012693158970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 441
+        width: 50
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031a7202136ac5ce0800000000000000
+      internalID: -1415073452978101968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 443
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677b27f46cf2127c0800000000000000
+      internalID: -4097941657147492490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 442
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee39ad823b69f4330800000000000000
+      internalID: 3697339515323192302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 452
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d36bb7f8dd1c850800000000000000
+      internalID: 6395636554168417572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 450
+        width: 22
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d6a0785d35b090800000000000000
+      internalID: -8019436111406902373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 442
+        width: 49
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b794a17214ce9430800000000000000
+      internalID: 3791683519787603892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 441
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b93986e69f81ca80800000000000000
+      internalID: -8448313547694720592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 441
+        width: 30
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b60f2adfc848ba90800000000000000
+      internalID: -7298003138597943628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 443
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432522cfef8e3d700800000000000000
+      internalID: 564050560200888884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 442
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd910bc212ea25f60800000000000000
+      internalID: 8021665343807166940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 343
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b84aeedfe06757e0800000000000000
+      internalID: -1776844944621025096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 342
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e0179f2b86af780800000000000000
+      internalID: -8648485016513212798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 342
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf543db44bb33260800000000000000
+      internalID: 7076205343435677663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 343
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259767d3781fdc9f0800000000000000
+      internalID: -446435224885757614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 343
+        width: 41
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb5049c62e8ec820800000000000000
+      internalID: 2940443903955852282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 339
+        width: 34
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449984c9c48a5a760800000000000000
+      internalID: 7468560604056820036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 337
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a2acd486c320a90800000000000000
+      internalID: -7349245223235868120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 343
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90b23c34f72908a0800000000000000
+      internalID: -6338491070611804006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 243
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf44d980b5c61d50800000000000000
+      internalID: 6707766057032241099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 243
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673e7a16201a64f20800000000000000
+      internalID: 3406587199752758134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 241
+        width: 34
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1007ab808a33fe0800000000000000
+      internalID: -1210439119391424094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 243
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ef4d6f00232a0e0800000000000000
+      internalID: -2260189083264024975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 243
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0b4a4fea16c8280800000000000000
+      internalID: -9039742947982790454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 142
+        width: 32
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f497267327813b0800000000000000
+      internalID: -5541553759278510283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 142
+        width: 32
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8d5a3caf7fb6740800000000000000
+      internalID: 5146479655597234387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 142
+        width: 32
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380429e9029f12320800000000000000
+      internalID: 2531578384053584003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 142
+        width: 32
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861b6deaa6784e700800000000000000
+      internalID: 568728345225113960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 43
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7a20def73183aa0800000000000000
+      internalID: -6181169048407857157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 41
+        width: 34
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab33ed943b38e68c0800000000000000
+      internalID: -4004118212624108614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 41
+        width: 35
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2393a8929a146ff20800000000000000
+      internalID: 3456021958855637298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndeathKnightSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 41
+        width: 35
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483e04fc9093ac8c0800000000000000
+      internalID: -3978304606533786748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c29f02d42653914478ac28ceaf543970
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      UndeathKnightSpriteSheet_0: 5868439182805425902
+      UndeathKnightSpriteSheet_1: 9081685308425232216
+      UndeathKnightSpriteSheet_10: 2867610777421822967
+      UndeathKnightSpriteSheet_11: 936930132650713737
+      UndeathKnightSpriteSheet_12: 8880154727356887541
+      UndeathKnightSpriteSheet_13: -2518674159965145282
+      UndeathKnightSpriteSheet_14: 6613543687537932303
+      UndeathKnightSpriteSheet_15: 7960527973234682018
+      UndeathKnightSpriteSheet_16: 45850556304171037
+      UndeathKnightSpriteSheet_17: -1710871969664984830
+      UndeathKnightSpriteSheet_18: -6610355788731926079
+      UndeathKnightSpriteSheet_19: 1012159913504285893
+      UndeathKnightSpriteSheet_2: 2666484503454561813
+      UndeathKnightSpriteSheet_20: -4860024018131161599
+      UndeathKnightSpriteSheet_21: -4589369126406934317
+      UndeathKnightSpriteSheet_22: 5397942335321761288
+      UndeathKnightSpriteSheet_23: -2717570456109110910
+      UndeathKnightSpriteSheet_24: 4248907910660962479
+      UndeathKnightSpriteSheet_25: 5974708267407031887
+      UndeathKnightSpriteSheet_26: -3928140357957509605
+      UndeathKnightSpriteSheet_27: -364671272092764073
+      UndeathKnightSpriteSheet_28: -5376441483510130769
+      UndeathKnightSpriteSheet_29: -5650766219629527155
+      UndeathKnightSpriteSheet_3: -5590615759378097066
+      UndeathKnightSpriteSheet_30: 2972275039937229979
+      UndeathKnightSpriteSheet_31: 3312359709922533114
+      UndeathKnightSpriteSheet_32: 5849892352766357830
+      UndeathKnightSpriteSheet_33: 6898074803537242694
+      UndeathKnightSpriteSheet_34: 1648332413545934302
+      UndeathKnightSpriteSheet_35: 2773249839270464224
+      UndeathKnightSpriteSheet_36: -8325752012693158970
+      UndeathKnightSpriteSheet_37: -1415073452978101968
+      UndeathKnightSpriteSheet_38: -4097941657147492490
+      UndeathKnightSpriteSheet_39: 3697339515323192302
+      UndeathKnightSpriteSheet_4: 3434821957192154438
+      UndeathKnightSpriteSheet_40: 6395636554168417572
+      UndeathKnightSpriteSheet_41: -8019436111406902373
+      UndeathKnightSpriteSheet_42: 3791683519787603892
+      UndeathKnightSpriteSheet_43: -8448313547694720592
+      UndeathKnightSpriteSheet_44: -7298003138597943628
+      UndeathKnightSpriteSheet_45: 564050560200888884
+      UndeathKnightSpriteSheet_46: 8021665343807166940
+      UndeathKnightSpriteSheet_47: -1776844944621025096
+      UndeathKnightSpriteSheet_48: -8648485016513212798
+      UndeathKnightSpriteSheet_49: 7076205343435677663
+      UndeathKnightSpriteSheet_5: 8067329104473451604
+      UndeathKnightSpriteSheet_50: -446435224885757614
+      UndeathKnightSpriteSheet_51: 2940443903955852282
+      UndeathKnightSpriteSheet_52: 7468560604056820036
+      UndeathKnightSpriteSheet_53: -7349245223235868120
+      UndeathKnightSpriteSheet_54: -6338491070611804006
+      UndeathKnightSpriteSheet_55: 6707766057032241099
+      UndeathKnightSpriteSheet_56: 3406587199752758134
+      UndeathKnightSpriteSheet_57: -1210439119391424094
+      UndeathKnightSpriteSheet_58: -2260189083264024975
+      UndeathKnightSpriteSheet_59: -9039742947982790454
+      UndeathKnightSpriteSheet_6: 4377222059263609408
+      UndeathKnightSpriteSheet_60: -5541553759278510283
+      UndeathKnightSpriteSheet_61: 5146479655597234387
+      UndeathKnightSpriteSheet_62: 2531578384053584003
+      UndeathKnightSpriteSheet_63: 568728345225113960
+      UndeathKnightSpriteSheet_64: -6181169048407857157
+      UndeathKnightSpriteSheet_65: -4004118212624108614
+      UndeathKnightSpriteSheet_66: 3456021958855637298
+      UndeathKnightSpriteSheet_67: -3978304606533786748
+      UndeathKnightSpriteSheet_7: -3897621108854114004
+      UndeathKnightSpriteSheet_8: 6828542364355981205
+      UndeathKnightSpriteSheet_9: 1727011289764146699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
